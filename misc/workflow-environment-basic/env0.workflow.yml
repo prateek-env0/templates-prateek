@@ -3,5 +3,5 @@ environments:
     name: nullService1
     templateName: "null resource"
   rootService2:
-    name: D
-    templateName: "null"
+    name: nullService2
+    templateName: "GitHub Integration Test"
