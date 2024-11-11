@@ -3,6 +3,6 @@ environments:
     name: nullService1
     templateName: "null resource"
 settings:
-  environmentRemovalStrategy: destroy
-  name: D
-  templateName: "null"
+  rootService1:
+    name: D
+    templateName: "null"
