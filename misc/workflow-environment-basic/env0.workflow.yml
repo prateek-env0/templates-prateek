@@ -4,3 +4,5 @@ environments:
     templateName: "null resource"
 settings:
   environmentRemovalStrategy: destroy
+  name: D
+  templateName: "null"
