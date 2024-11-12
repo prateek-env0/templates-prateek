@@ -4,4 +4,4 @@ environments:
     templateName: "null resource"
   rootService2:
     name: nullService2
-    templateName: "GitHub Integration Test"
+    templateName: "null drifted"
