@@ -4,5 +4,4 @@ deploy:
   steps:
     terraformApply:
       after:
-        - rm foo.bar
-
+        - chmod 700 ./validate-remote.sh
