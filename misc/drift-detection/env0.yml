@@ -3,6 +3,6 @@ version: 1
 deploy:
   steps:
     terraformApply:
-      after:
-        - rm foo.bar
-
+      before:
+        - ls -la
+        - pwd
