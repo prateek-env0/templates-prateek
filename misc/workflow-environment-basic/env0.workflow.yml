@@ -1,7 +1,28 @@
 environments:
   rootService1:
     name: nullService1
-    templateName: 'null resource'
+    templateName: "null resource"
   rootService2:
     name: nullService2
-    templateName: 'null resource'
+    templateName: "null resource"
+  rootService3:
+    name: nullService3
+    templateName: "null resource"
+  rootService4:
+    name: nullService4
+    templateName: "null resource"
+  rootService5:
+    name: nullService5
+    templateName: "null resource"
+  rootService6:
+    name: nullService6
+    templateName: "null resource"
+  rootService7:
+    name: nullService7
+    templateName: "null resource"
+  rootService8:
+    name: nullService8
+    templateName: "null resource"
+  rootService9:
+    name: nullService9
+    templateName: "null resource"
